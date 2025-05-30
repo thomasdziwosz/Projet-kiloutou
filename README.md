@@ -21,5 +21,9 @@ Analyser les visites et le parcours client des visiteurs sur le site de Kiloutou
 - 10% du flux visiteurs provient des ADS
 
 
+## Fichiers dispo 
+
+- fichier complet powerbi .pbix
+- export pdf
 
 
